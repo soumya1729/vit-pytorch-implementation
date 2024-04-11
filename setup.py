@@ -1,5 +1,8 @@
 from setuptools import setup, find_packages
 
+with open('README.md') as f:
+    long_description = f.read()
+
 setup(
   name = 'vit-pytorch-implementation',
   version = '4.0.0',
