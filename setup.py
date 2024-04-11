@@ -5,9 +5,10 @@ with open('README.md') as f:
 
 setup(
   name = 'vit-pytorch-implementation',
-  version = '1.0.1',
+  version = '1.0.2',
   license='MIT',
   description = 'Vision Transformer (ViT) - Pytorch',
+  long_description=long_description,
   long_description_content_type = 'text/markdown',
   author = 'SM',
   url = 'https://github.com/soumya1729/vit-pytorch-implementation/',
