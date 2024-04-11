@@ -5,7 +5,7 @@ with open('README.md') as f:
 
 setup(
   name = 'vit-pytorch-implementation',
-  version = '4.0.0',
+  version = '1.0.1',
   license='MIT',
   description = 'Vision Transformer (ViT) - Pytorch',
   long_description_content_type = 'text/markdown',
